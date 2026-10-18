@@ -1,0 +1,10 @@
+# Saída de compilação do .NET
+bin/
+obj/
+publicado/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
